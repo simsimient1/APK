@@ -1,2 +1,2 @@
-# APK
+# APL
 Download Test SimSimi Click Here
